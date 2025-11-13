@@ -905,3 +905,13 @@
 ### Ownership Update
 This repository is now officially maintained and owned by **MindX AI**.  
 All historical commits have been unified under MindX AI for branding and mission clarity.
+
+![MindX AI](https://img.shields.io/badge/Ownership-MindX%20AI-blue?style=for-the-badge)
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+## MindX AI 🚀
+Ethical, scalable automation platforms for nonprofits and global impact.
+
+### Ownership Update
+This repository is now officially maintained and owned by **MindX AI**.  
+All historical commits have been unified under MindX AI for branding and mission clarity.

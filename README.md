@@ -915,3 +915,15 @@ Ethical, scalable automation platforms for nonprofits and global impact.
 ### Ownership Update
 This repository is now officially maintained and owned by **MindX AI**.  
 All historical commits have been unified under MindX AI for branding and mission clarity.
+
+
+## 📬 Connect with MindX AI
+
+- 🌐 GitHub Profile: [MindX AI on GitHub](https://github.com/Mind-Xai)
+- 🖼️ Gravatar: [MindX AI Gravatar](https://gravatar.com/mindxai)
+- 📲 WhatsApp: +1 646 777 5121
+- 📧 Email: connect@mind-xai.com
+
+### Historical Contributors
+This repository was initially connected with contributions under the name **Danail Minchev**.  
+All commits have now been unified under **MindX AI** for branding and mission clarity.

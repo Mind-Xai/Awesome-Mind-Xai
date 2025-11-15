@@ -896,22 +896,19 @@
 
 ## Related
 
-- [All Awesome Lists](https://github.com/topics/awesome) — A collection of all Awesome lists on GitHub.
-- [Awesome Search](https://awesomelists.top) — A quick search engine for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) — Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) — A simple command-line tool to explore Awesome lists.
-- [Track Awesome List](https://www.trackawesomelist.com) — A service to view the latest updates of Awesome lists.
-- [Bitcoin](https://bitcoin.org) — A decentralized digital currency enabling peer-to-peer transactions without intermediaries.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) — Applications of Blockchain beyond finance, such as supply chain and identity management.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) — Resources and tools supporting emotional well-being and psychological resilience.
-- [Unicode](https://unicode.org) — A universal character encoding standard supporting text representation across platforms.
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) — Community-driven resources and tools for Pokémon fans and developers.
-- [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) — Tools and services designed to remove or block advertisements for a cleaner experience.
-- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) — Collections of calculator apps across platforms.
-- [Food](https://github.com/jzarca01/awesome-food#readme) — Curated resources for recipes, nutrition, and culinary exploration.
-- [Advertising](https://github.com/cenoura/awesome-ads#readme) — Tools and platforms for managing and analyzing advertising campaigns.
-- [Naming](https://github.com/gruhn/awesome-naming#readme) — Guides and tools for naming projects, businesses, and products.
-- [Standards](https://github.com/donBarbos/awesome-standards#readme) — References and resources for technical and industry standards.
-
-
-# Trigger lint after About section fix
+- [All Awesome Lists](https://github.com/topics/awesome#readme) - A collection of curated Awesome lists across every domain.
+- [Awesome Search](https://awesomelists.top#readme) - A fast search engine for discovering Awesome lists.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome#readme) - Discover random Awesome lists with a browser extension.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli#readme) - A simple command-line tool to explore Awesome lists.
+- [Track Awesome List](https://www.trackawesomelist.com#readme) - A service to view the latest updates to Awesome lists.
+- [Bitcoin](https://bitcoin.org) - Resources for decentralized digital currency.
+- [Awesome Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Applications of Blockchain beyond finance.
+- [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Tools and resources for emotional well-being.
+- [Unicode](https://unicode.org) - A universal character encoding standard supporting global text representation.
+- [Awesome Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Games and tools inspired by the Pokémon universe.
+- [Awesome Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Tools and platforms that prioritize privacy and avoid advertising.
+- [Awesome Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Libraries and apps for performing calculations.
+- [Awesome Food](https://github.com/jzarca01/awesome-food#readme) - Curated tools and resources for cooking and nutrition.
+- [Awesome Ads](https://github.com/cenoura/awesome-ads#readme) - Platforms and tools for digital advertising.
+- [Awesome Naming](https://github.com/gruhn/awesome-naming#readme) - Tools for generating and validating names.
+- [Awesome Standards](https://github.com/donBarbos/awesome-standards#readme) - Curated specifications and technical standards.

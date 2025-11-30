@@ -940,7 +940,7 @@ MindX AI offers structured learning paths and premium resources:
 
 ### 🛡️ Ownership & History
 
-This repository is now officially maintained and owned by **MindX AI**. This repository was initially connected with contributions under the name **Danail Minchev**. All historical commits have been unified under MindX AI for branding and mission clarity.
+This repository is now officially maintained and owned by **MindX AI**. It was initially developed with contributions under the name **Danail Minchev**, but all historical commits have been unified under MindX AI for branding and mission clarity.
 
 ### 📜 License
 
